@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-11T21:48:28 IST" name="Default suite" finished-at="2025-11-11T21:48:28 IST" duration-ms="56">
+    <groups>
+    </groups>
+    <test started-at="2025-11-11T21:48:28 IST" name="Default test" finished-at="2025-11-11T21:48:28 IST" duration-ms="56">
+      <class name="CSVReaderPgm">
+        <test-method signature="csvdatareader()[pri:0, instance:CSVReaderPgm@815b41f]" started-at="2025-11-11T21:48:28 IST" name="csvdatareader" finished-at="2025-11-11T21:48:28 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- csvdatareader -->
+      </class> <!-- CSVReaderPgm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
