@@ -17,8 +17,9 @@ import io.opentelemetry.api.internal.Utils;
 public class InvokingWindows {
 
 	public static void main(String[] args) throws IOException {
-		System.setProperty("webdriver.chrome.driver",
-				"C://Users//allan//OneDrive//Documents//chromedriver-win64//chromedriver.exe");
+//		System.setProperty("webdriver.chrome.driver",
+//				"C://Users//allan//OneDrive//Documents//chromedriver-win64//chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:/Users/167557/Documents/chromedriver-win64/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 
 		driver.navigate().to("https://rahulshettyacademy.com/angularpractice/");
